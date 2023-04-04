@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre Klostermann</h1>
 <h3 align="center">Solving real world problems with pieces of code and creativity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oalexandre&label=Profile%20views&color=0e75b6&style=flat" alt="oalexandre" /> </p>
 
 - 🔭 I’m currently working on [Hassy, a service order manager plataform](https://www.hassy.com.br)
 
