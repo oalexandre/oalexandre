@@ -2,15 +2,13 @@
 <h3 align="center">Solving real world problems with pieces of code and creativity</h3>
 
 
-- 🔭 I’m currently working on [Hassy, a service order manager plataform](https://www.hassy.com.br)
+- 🔭 I’m currently working as CTO at [Alva Personal Care](https://www.alvapersonalcare.com.br)
 
-- 🌱 I’m currently learning **React Native**
-
-- 🤝 I’m looking for help with [Unesco Mil Cities Metrics](https://www.unesco.org/en/media-information-literacy/mil-cities#:~:text=The%20%E2%80%9CMIL%20Cities%E2%80%9D%20initiative%20is%20designed%20to%20build%20bridges%20between,and%20MIL%2Drelated%20NGOs%20and)
+- 🌱 I’m currently learning **Agno**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/oalexandre/](https://www.linkedin.com/in/oalexandre/)
 
-- ⚡ Owner and Working at [https://www.aupi.com.br](https://www.aupi.com.br)
+- ⚡ Trying to keep it updated at [https://www.oalexandre.com.br](https://www.oalexandre.com.br)
 
 - 💬 Ask me about **Python, Django and software architecture**
 
