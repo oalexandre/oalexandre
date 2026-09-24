@@ -16,7 +16,6 @@ Comecei pela parte de baixo da pilha: escola técnica de eletrônica, assembler 
 - Montando o time de tecnologia da Alva: automação fiscal e de processos, uma plataforma de vendas B2B, integração com a logística. A plataforma de live shopping foi feita por três pessoas em duas semanas e fez R$ 680 mil em pedidos em cinco horas ([como foi](https://www.oalexandre.com.br/posts/como-desenvolvemos-uma-plataforma-de-live-shopping-que-gerou-r-600k-em-5-horas-em-apenas-2-semanas)).
 - Um fluxo de desenvolvimento assistido por IA para um time quase todo júnior, da task à revisão. Claude Code, MCPs, skills, backlog.md.
 - Apresentando o [Escovando Bits](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9), o podcast da Codecon sobre desenvolvimento de software.
-- Aprendendo Agno.
 
 ### O que sempre volta
 
@@ -47,7 +46,6 @@ I started at the bottom of the stack: electronics school, PIC assembly, PLCs. C+
 - Building the tech team at Alva: fiscal and process automation, a B2B sales platform, logistics integrations. The live shopping platform was three people, two weeks, and R$ 680k in orders in five hours ([how it went](https://www.oalexandre.com.br/posts/como-desenvolvemos-uma-plataforma-de-live-shopping-que-gerou-r-600k-em-5-horas-em-apenas-2-semanas), in Portuguese).
 - An AI-assisted development flow for a mostly junior team, from task to review. Claude Code, MCPs, skills, backlog.md.
 - Co-hosting [Escovando Bits](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9), Codecon's podcast about software development (in Portuguese).
-- Learning Agno.
 
 ### What I keep coming back to
 
