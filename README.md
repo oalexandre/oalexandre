@@ -1,25 +1,66 @@
-<h1 align="center">Hi 👋, I'm Alexandre Klostermann</h1>
-<h3 align="center">Solving real world problems with pieces of code and creativity</h3>
+# Alexandre Klostermann
 
+<details>
+<summary><b>🇧🇷 Ler em português</b></summary>
 
-- 🔭 I’m currently working as CTO at [Alva Personal Care](https://www.alvapersonalcare.com.br)
+<br>
 
-- 🌱 I’m currently learning **Agno**
+CTO da [Alva Personal Care](https://www.alvapersonalcare.com.br), em Joinville/SC.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oalexandre/](https://www.linkedin.com/in/oalexandre/)
+Antes disso tive a Aupi, uma empresa pequena de software, por 15 anos. Entre 5 e 20 pessoas, mais de 300 sites e 30 sistemas, a maioria em Python e Django, e muito código legado na linguagem que o cliente já tivesse. Nunca fui contratado como programador. A Alva era cliente desde 2012 e em 2024 me perguntaram por que eu ainda não estava lá.
 
-- ⚡ Trying to keep it updated at [https://www.oalexandre.com.br](https://www.oalexandre.com.br)
+Comecei pela parte de baixo da pilha: escola técnica de eletrônica, assembler de PIC, CLP (controlador lógico programável). C++ para mim era alto nível. O Linux veio em 2001, Python e Django (desde a 0.96) por volta de 2006, pelo Guxlle (o Grupo de Usuários Linux de Joinville) e pela comunidade Python Brasil.
 
-- 💬 Ask me about **Python, Django and software architecture**
+### No que estou trabalhando
 
-- 📫 How to reach me **eusou@oalexandre.com.br**
+- Montando o time de tecnologia da Alva: automação fiscal e de processos, uma plataforma de vendas B2B, integração com a logística. A plataforma de live shopping foi feita por três pessoas em duas semanas e fez R$ 680 mil em pedidos em cinco horas ([como foi](https://www.oalexandre.com.br/posts/como-desenvolvemos-uma-plataforma-de-live-shopping-que-gerou-r-600k-em-5-horas-em-apenas-2-semanas)).
+- Um fluxo de desenvolvimento assistido por IA para um time quase todo júnior, da task à revisão. Claude Code, MCPs, skills, backlog.md.
+- Apresentando o [Escovando Bits](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9), o podcast da Codecon sobre desenvolvimento de software.
+- Aprendendo Agno.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/oalexandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oalexandre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oalexandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oalexandre" height="30" width="40" /></a>
-</p>
+### O que sempre volta
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+- Mapear o processo antes de escrever código. A migração de e-commerce que virou à meia-noite do Ano Novo deu certo porque cada peça estava mapeada semanas antes.
+- A coisa mais simples que vai para o ar. Minha última palestra foi um sistema de cashback em n8n, Shopify e Google Sheets no lugar de Kubernetes. Não é sobre a ferramenta, é sobre saber quais limites você aceitou e quando migrar.
+- Código legado. A maior parte da minha carreira foi mantendo sistema que outra pessoa escreveu.
 
+### Stack
+
+Python e Django quase todo dia. PostgreSQL, Redis, AWS, Docker, n8n. Next.js porque o deploy é fácil, não porque eu goste. Linux desde 2001. Microcontroladores e MQTT quando ninguém está olhando.
+
+### Onde mais
+
+- [oalexandre.com.br](https://www.oalexandre.com.br): posts, palestras e projetos
+- [LinkedIn](https://www.linkedin.com/in/oalexandre/)
+- eusou@oalexandre.com.br (o endereço existe porque ninguém sabia escrever Klostermann)
+
+</details>
+
+CTO at [Alva Personal Care](https://www.alvapersonalcare.com.br), in Joinville, Brazil.
+
+Before that I ran Aupi, a small software company, for 15 years. Between 5 and 20 people, more than 300 websites and 30 systems, mostly Python and Django, plus a lot of legacy code in whatever language the client already had. I was never hired as a programmer. Alva was a client since 2012 and in 2024 they asked why I wasn't there yet.
+
+I started at the bottom of the stack: electronics school, PIC assembly, PLCs. C++ felt high level. Linux came in 2001, Python and Django (since 0.96) around 2006, through the Linux user group in Joinville and the Python Brasil community.
+
+### What I'm working on
+
+- Building the tech team at Alva: fiscal and process automation, a B2B sales platform, logistics integrations. The live shopping platform was three people, two weeks, and R$ 680k in orders in five hours ([how it went](https://www.oalexandre.com.br/posts/como-desenvolvemos-uma-plataforma-de-live-shopping-que-gerou-r-600k-em-5-horas-em-apenas-2-semanas), in Portuguese).
+- An AI-assisted development flow for a mostly junior team, from task to review. Claude Code, MCPs, skills, backlog.md.
+- Co-hosting [Escovando Bits](https://open.spotify.com/show/2jz0gSreoUqQVxLKNprjZ9), Codecon's podcast about software development (in Portuguese).
+- Learning Agno.
+
+### What I keep coming back to
+
+- Map the process before writing code. The e-commerce migration that went live at midnight on New Year's worked because every piece was mapped weeks before.
+- The simplest thing that ships. My last talk was a cashback system on n8n, Shopify and Google Sheets instead of Kubernetes. It isn't about the tool, it's about knowing the limits you accepted and when to migrate.
+- Legacy code. Most of my career was maintaining systems someone else wrote.
+
+### Stack
+
+Python and Django most days. PostgreSQL, Redis, AWS, Docker, n8n. Next.js because it deploys easily, not because I like it. Linux since 2001. Microcontrollers and MQTT when nobody is looking.
+
+### Elsewhere
+
+- [oalexandre.com.br](https://www.oalexandre.com.br): posts, talks and projects (in Portuguese)
+- [LinkedIn](https://www.linkedin.com/in/oalexandre/)
+- eusou@oalexandre.com.br (the address exists because nobody could spell Klostermann)
